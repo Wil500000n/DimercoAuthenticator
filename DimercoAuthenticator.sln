@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DimercoAuthenticator", "DimercoAuthenticator\DimercoAuthenticator.csproj", "{CCBA29DF-6985-460B-9E3D-5AC956C0DD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DimercoAuthenticatorLibrary", "DimercoAuthenticatorLibrary\DimercoAuthenticatorLibrary.csproj", "{5FF5297E-045C-43E3-811A-B0F45029A457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBA29DF-6985-460B-9E3D-5AC956C0DD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBA29DF-6985-460B-9E3D-5AC956C0DD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBA29DF-6985-460B-9E3D-5AC956C0DD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBA29DF-6985-460B-9E3D-5AC956C0DD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF5297E-045C-43E3-811A-B0F45029A457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF5297E-045C-43E3-811A-B0F45029A457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF5297E-045C-43E3-811A-B0F45029A457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF5297E-045C-43E3-811A-B0F45029A457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A613F3EE-3B62-45C2-B496-C155114F5396}
+	EndGlobalSection
+EndGlobal
